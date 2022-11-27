@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
+
+:root {
+  --font-base : 'Montserrat', sans-serif;
+  --font-alt : 'Raleway', sans-serif;
+
+  --black : #232323;
+  --white : #FCFCFC;
+  --gray : rgb(165, 165, 165);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
